@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Muhammad Fathir Irhas <mfathirirhas@gmail.com>"]
 description = "Botak Licin"
 license = "MIT"
-# repository = "-"
+repository = "https://github.com/mfirhas/botak"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
